@@ -1,2 +1,2 @@
-# alone-admin
+# AloneAdmin
 One more admin interface ...
